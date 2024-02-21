@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Математическое моделирован
+ ие\, численные методы и комплексы програ
+ мм
+DTSTART:20240208T163000
+DTEND:20240208T180000
+DTSTAMP:20240208T163000Z
+DESCRIPTION:Гидаспов Владимир Юрьевич
+LOCATION:ГУК А-612
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Системный анализ\, управлен
+ ие и обработка информации
+DTSTART:20240208T144500
+DTEND:20240208T161500
+DTSTAMP:20240208T144500Z
+DESCRIPTION:Пантелеев Андрей Владимирович
+LOCATION:ГУК А-606
+END:VEVENT
+END:VCALENDAR

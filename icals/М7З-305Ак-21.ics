@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Вооружение и военная техник
+ а\, комплексы и системы военного назначе
+ ния
+DTSTART:20240210T104500
+DTEND:20240210T121500
+DTSTAMP:20240210T104500Z
+DESCRIPTION:Долин Александр Дмитриевич
+LOCATION:--каф.
+END:VEVENT
+END:VCALENDAR

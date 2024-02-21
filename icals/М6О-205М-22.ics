@@ -1,0 +1,481 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Механика разрушения композ
+ иционных материалов
+DTSTART:20240115T163000
+DTEND:20240115T180000
+DTSTAMP:20240115T163000Z
+DESCRIPTION:Дудченко Александр Александрович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Механика разрушения композ
+ иционных материалов
+DTSTART:20240115T181500
+DTEND:20240115T194500
+DTSTAMP:20240115T181500Z
+DESCRIPTION:Дудченко Александр Александрович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Теория пластичности и ползу
+ чести
+DTSTART:20240119T163000
+DTEND:20240119T180000
+DTSTAMP:20240119T163000Z
+DESCRIPTION:Мовчан Андрей Александрович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Теория пластичности и ползу
+ чести
+DTSTART:20240119T181500
+DTEND:20240119T194500
+DTSTAMP:20240119T181500Z
+DESCRIPTION:Мовчан Андрей Александрович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240213T163000
+DTEND:20240213T180000
+DTSTAMP:20240213T163000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240213T200000
+DTEND:20240213T213000
+DTSTAMP:20240213T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240219T144500
+DTEND:20240219T161500
+DTSTAMP:20240219T144500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240219T163000
+DTEND:20240219T180000
+DTSTAMP:20240219T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240220T200000
+DTEND:20240220T213000
+DTSTAMP:20240220T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240227T163000
+DTEND:20240227T180000
+DTSTAMP:20240227T163000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240227T200000
+DTEND:20240227T213000
+DTSTAMP:20240227T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240304T144500
+DTEND:20240304T161500
+DTSTAMP:20240304T144500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240304T163000
+DTEND:20240304T180000
+DTSTAMP:20240304T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240305T200000
+DTEND:20240305T213000
+DTSTAMP:20240305T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240312T200000
+DTEND:20240312T213000
+DTSTAMP:20240312T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240318T144500
+DTEND:20240318T161500
+DTSTAMP:20240318T144500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240318T163000
+DTEND:20240318T180000
+DTSTAMP:20240318T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240319T200000
+DTEND:20240319T213000
+DTSTAMP:20240319T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240321T181500
+DTEND:20240321T194500
+DTSTAMP:20240321T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240321T200000
+DTEND:20240321T213000
+DTSTAMP:20240321T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240326T200000
+DTEND:20240326T213000
+DTSTAMP:20240326T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240401T144500
+DTEND:20240401T161500
+DTSTAMP:20240401T144500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240401T163000
+DTEND:20240401T180000
+DTSTAMP:20240401T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240402T200000
+DTEND:20240402T213000
+DTSTAMP:20240402T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240404T181500
+DTEND:20240404T194500
+DTSTAMP:20240404T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240404T200000
+DTEND:20240404T213000
+DTSTAMP:20240404T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240409T200000
+DTEND:20240409T213000
+DTSTAMP:20240409T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240415T144500
+DTEND:20240415T161500
+DTSTAMP:20240415T144500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240415T163000
+DTEND:20240415T180000
+DTSTAMP:20240415T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240416T200000
+DTEND:20240416T213000
+DTSTAMP:20240416T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240418T181500
+DTEND:20240418T194500
+DTSTAMP:20240418T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240418T200000
+DTEND:20240418T213000
+DTSTAMP:20240418T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240423T200000
+DTEND:20240423T213000
+DTSTAMP:20240423T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240502T181500
+DTEND:20240502T194500
+DTSTAMP:20240502T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240502T200000
+DTEND:20240502T213000
+DTSTAMP:20240502T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240507T181500
+DTEND:20240507T194500
+DTSTAMP:20240507T181500Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по прочности кон
+ струкий
+DTSTART:20240507T200000
+DTEND:20240507T213000
+DTSTAMP:20240507T200000Z
+DESCRIPTION:Кретов Анатолий Степанович
+LOCATION:1-102
+END:VEVENT
+END:VCALENDAR

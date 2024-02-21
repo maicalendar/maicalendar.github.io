@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Изменение физико-химически
+ х свойств материалов модифицированием и
+  нанесением покрытий
+DTSTART:20240125T090000
+DTEND:20240125T103000
+DTSTAMP:20240125T090000Z
+DESCRIPTION:Т11О-203М-22
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Изменение физико-химически
+ х свойств материалов модифицированием и
+  нанесением покрытий
+DTSTART:20240125T104500
+DTEND:20240125T121500
+DTSTAMP:20240125T104500Z
+DESCRIPTION:Т11О-203М-22
+LOCATION:Орш. А-220
+END:VEVENT
+END:VCALENDAR

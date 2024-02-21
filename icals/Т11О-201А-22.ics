@@ -1,0 +1,658 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240304T090000
+DTEND:20240304T103000
+DTSTAMP:20240304T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240304T104500
+DTEND:20240304T121500
+DTSTAMP:20240304T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240306T163000
+DTEND:20240306T180000
+DTSTAMP:20240306T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240306T181500
+DTEND:20240306T194500
+DTSTAMP:20240306T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240306T200000
+DTEND:20240306T213000
+DTSTAMP:20240306T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240311T090000
+DTEND:20240311T103000
+DTSTAMP:20240311T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240311T104500
+DTEND:20240311T121500
+DTSTAMP:20240311T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240313T163000
+DTEND:20240313T180000
+DTSTAMP:20240313T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240313T181500
+DTEND:20240313T194500
+DTSTAMP:20240313T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240313T200000
+DTEND:20240313T213000
+DTSTAMP:20240313T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240314T163000
+DTEND:20240314T180000
+DTSTAMP:20240314T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240314T181500
+DTEND:20240314T194500
+DTSTAMP:20240314T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240318T090000
+DTEND:20240318T103000
+DTSTAMP:20240318T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240318T104500
+DTEND:20240318T121500
+DTSTAMP:20240318T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240320T163000
+DTEND:20240320T180000
+DTSTAMP:20240320T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240320T181500
+DTEND:20240320T194500
+DTSTAMP:20240320T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240320T200000
+DTEND:20240320T213000
+DTSTAMP:20240320T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240325T090000
+DTEND:20240325T103000
+DTSTAMP:20240325T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240325T104500
+DTEND:20240325T121500
+DTSTAMP:20240325T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240327T163000
+DTEND:20240327T180000
+DTSTAMP:20240327T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240327T181500
+DTEND:20240327T194500
+DTSTAMP:20240327T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240327T200000
+DTEND:20240327T213000
+DTSTAMP:20240327T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240328T163000
+DTEND:20240328T180000
+DTSTAMP:20240328T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240328T181500
+DTEND:20240328T194500
+DTSTAMP:20240328T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240401T090000
+DTEND:20240401T103000
+DTSTAMP:20240401T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240401T104500
+DTEND:20240401T121500
+DTSTAMP:20240401T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240403T163000
+DTEND:20240403T180000
+DTSTAMP:20240403T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240403T181500
+DTEND:20240403T194500
+DTSTAMP:20240403T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240403T200000
+DTEND:20240403T213000
+DTSTAMP:20240403T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240408T090000
+DTEND:20240408T103000
+DTSTAMP:20240408T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240408T104500
+DTEND:20240408T121500
+DTSTAMP:20240408T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240410T163000
+DTEND:20240410T180000
+DTSTAMP:20240410T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240410T181500
+DTEND:20240410T194500
+DTSTAMP:20240410T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240410T200000
+DTEND:20240410T213000
+DTSTAMP:20240410T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240411T163000
+DTEND:20240411T180000
+DTSTAMP:20240411T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240411T181500
+DTEND:20240411T194500
+DTSTAMP:20240411T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240415T090000
+DTEND:20240415T103000
+DTSTAMP:20240415T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240415T104500
+DTEND:20240415T121500
+DTSTAMP:20240415T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240417T163000
+DTEND:20240417T180000
+DTSTAMP:20240417T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240417T181500
+DTEND:20240417T194500
+DTSTAMP:20240417T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240417T200000
+DTEND:20240417T213000
+DTSTAMP:20240417T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240422T090000
+DTEND:20240422T103000
+DTSTAMP:20240422T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240422T104500
+DTEND:20240422T121500
+DTSTAMP:20240422T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240424T163000
+DTEND:20240424T180000
+DTSTAMP:20240424T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240424T181500
+DTEND:20240424T194500
+DTSTAMP:20240424T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240424T200000
+DTEND:20240424T213000
+DTSTAMP:20240424T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240429T090000
+DTEND:20240429T103000
+DTSTAMP:20240429T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240429T104500
+DTEND:20240429T121500
+DTSTAMP:20240429T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240506T090000
+DTEND:20240506T103000
+DTSTAMP:20240506T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240506T104500
+DTEND:20240506T121500
+DTSTAMP:20240506T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240513T090000
+DTEND:20240513T103000
+DTSTAMP:20240513T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240513T104500
+DTEND:20240513T121500
+DTSTAMP:20240513T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240515T163000
+DTEND:20240515T180000
+DTSTAMP:20240515T163000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240515T181500
+DTEND:20240515T194500
+DTSTAMP:20240515T181500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240515T200000
+DTEND:20240515T213000
+DTSTAMP:20240515T200000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240520T090000
+DTEND:20240520T103000
+DTSTAMP:20240520T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240520T104500
+DTEND:20240520T121500
+DTSTAMP:20240520T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240527T090000
+DTEND:20240527T103000
+DTSTAMP:20240527T090000Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240527T104500
+DTEND:20240527T121500
+DTSTAMP:20240527T104500Z
+DESCRIPTION:
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240603T090000
+DTEND:20240603T103000
+DTSTAMP:20240603T090000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240603T104500
+DTEND:20240603T121500
+DTSTAMP:20240603T104500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240606T163000
+DTEND:20240606T180000
+DTSTAMP:20240606T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240606T181500
+DTEND:20240606T194500
+DTSTAMP:20240606T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240610T090000
+DTEND:20240610T103000
+DTSTAMP:20240610T090000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240610T104500
+DTEND:20240610T121500
+DTSTAMP:20240610T104500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240617T090000
+DTEND:20240617T103000
+DTSTAMP:20240617T090000Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240617T104500
+DTEND:20240617T121500
+DTSTAMP:20240617T104500Z
+DESCRIPTION:ОДИНОКОВ СЕРГЕЙ АНАТОЛЬЕВИЧ
+LOCATION:Орш. А-522
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240620T163000
+DTEND:20240620T180000
+DTSTAMP:20240620T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240620T181500
+DTEND:20240620T194500
+DTSTAMP:20240620T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+END:VCALENDAR

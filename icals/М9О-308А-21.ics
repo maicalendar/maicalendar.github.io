@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Механика деформируемого тв
+ ёрдого тела
+DTSTART:20240208T163000
+DTEND:20240208T180000
+DTSTAMP:20240208T163000Z
+DESCRIPTION:Тарлаковский Дмитрий Валентинови
+ ч
+LOCATION:--каф.
+END:VEVENT
+END:VCALENDAR

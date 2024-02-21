@@ -1,0 +1,438 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Технологии искусственного 
+ интеллекта
+DTSTART:20240118T090000
+DTEND:20240118T103000
+DTSTAMP:20240118T090000Z
+DESCRIPTION:Судаков Владимир Анатольевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Технологии искусственного 
+ интеллекта
+DTSTART:20240118T104500
+DTEND:20240118T121500
+DTSTAMP:20240118T104500Z
+DESCRIPTION:Судаков Владимир Анатольевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240212T144500
+DTEND:20240212T161500
+DTSTAMP:20240212T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240212T163000
+DTEND:20240212T180000
+DTSTAMP:20240212T163000Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240212T181500
+DTEND:20240212T194500
+DTSTAMP:20240212T181500Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240214T163000
+DTEND:20240214T180000
+DTSTAMP:20240214T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240214T181500
+DTEND:20240214T194500
+DTSTAMP:20240214T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240219T144500
+DTEND:20240219T161500
+DTSTAMP:20240219T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240219T163000
+DTEND:20240219T180000
+DTSTAMP:20240219T163000Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240219T181500
+DTEND:20240219T194500
+DTSTAMP:20240219T181500Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240226T144500
+DTEND:20240226T161500
+DTSTAMP:20240226T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240226T163000
+DTEND:20240226T180000
+DTSTAMP:20240226T163000Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240226T181500
+DTEND:20240226T194500
+DTSTAMP:20240226T181500Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240228T130000
+DTEND:20240228T143000
+DTSTAMP:20240228T130000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240228T144500
+DTEND:20240228T161500
+DTSTAMP:20240228T144500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240228T163000
+DTEND:20240228T180000
+DTSTAMP:20240228T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240228T181500
+DTEND:20240228T194500
+DTSTAMP:20240228T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240304T144500
+DTEND:20240304T161500
+DTSTAMP:20240304T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240304T163000
+DTEND:20240304T180000
+DTSTAMP:20240304T163000Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240304T181500
+DTEND:20240304T194500
+DTSTAMP:20240304T181500Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240311T144500
+DTEND:20240311T161500
+DTSTAMP:20240311T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240311T163000
+DTEND:20240311T180000
+DTSTAMP:20240311T163000Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240311T181500
+DTEND:20240311T194500
+DTSTAMP:20240311T181500Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240313T130000
+DTEND:20240313T143000
+DTSTAMP:20240313T130000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240313T144500
+DTEND:20240313T161500
+DTSTAMP:20240313T144500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240313T163000
+DTEND:20240313T180000
+DTSTAMP:20240313T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240313T181500
+DTEND:20240313T194500
+DTSTAMP:20240313T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240318T144500
+DTEND:20240318T161500
+DTSTAMP:20240318T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240318T163000
+DTEND:20240318T180000
+DTSTAMP:20240318T163000Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240318T181500
+DTEND:20240318T194500
+DTSTAMP:20240318T181500Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240325T144500
+DTEND:20240325T161500
+DTSTAMP:20240325T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240325T163000
+DTEND:20240325T180000
+DTSTAMP:20240325T163000Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240325T181500
+DTEND:20240325T194500
+DTSTAMP:20240325T181500Z
+DESCRIPTION:ЧЕРНОВА ТАТЬЯНА АЛЕКСАНДРОВНА
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240327T130000
+DTEND:20240327T143000
+DTSTAMP:20240327T130000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240327T144500
+DTEND:20240327T161500
+DTSTAMP:20240327T144500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240327T163000
+DTEND:20240327T180000
+DTSTAMP:20240327T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240327T181500
+DTEND:20240327T194500
+DTSTAMP:20240327T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Мониторинг проектной деятельнос
+ ти
+DTSTART:20240401T144500
+DTEND:20240401T161500
+DTSTAMP:20240401T144500Z
+DESCRIPTION:Котельников Вадим Алексеевич
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240401T163000
+DTEND:20240401T180000
+DTSTAMP:20240401T163000Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240401T181500
+DTEND:20240401T194500
+DTSTAMP:20240401T181500Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240408T163000
+DTEND:20240408T180000
+DTSTAMP:20240408T163000Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240408T181500
+DTEND:20240408T194500
+DTSTAMP:20240408T181500Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240410T130000
+DTEND:20240410T143000
+DTSTAMP:20240410T130000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Психология и педагогика
+DTSTART:20240410T144500
+DTEND:20240410T161500
+DTSTAMP:20240410T144500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-640
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240410T163000
+DTEND:20240410T180000
+DTSTAMP:20240410T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Психология и педагогика
+DTSTART:20240410T181500
+DTEND:20240410T194500
+DTSTAMP:20240410T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГУК Б-536
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240422T163000
+DTEND:20240422T180000
+DTSTAMP:20240422T163000Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Организационные\, экономические 
+ и физические методы защиты и охраны инфо
+ рмационных систем и технологий
+DTSTART:20240422T181500
+DTEND:20240422T194500
+DTSTAMP:20240422T181500Z
+DESCRIPTION:Вяткин Павел Михайлович
+LOCATION:--каф.
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,262 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Динамика полета беспилотны
+ х летательных аппаратов
+DTSTART:20240115T163000
+DTEND:20240115T180000
+DTSTAMP:20240115T163000Z
+DESCRIPTION:Тихонов Владимир Николаевич
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы оптимизации в задача
+ х баллистики и гидроаэродинамики
+DTSTART:20240119T090000
+DTEND:20240119T103000
+DTSTAMP:20240119T090000Z
+DESCRIPTION:Мальцев Юрий Иванович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы оптимизации в задача
+ х баллистики и гидроаэродинамики
+DTSTART:20240119T104500
+DTEND:20240119T121500
+DTSTAMP:20240119T104500Z
+DESCRIPTION:Мальцев Юрий Иванович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Моделирование в задачах бал
+ листики и гидроаэродинамики
+DTSTART:20240125T130000
+DTEND:20240125T143000
+DTSTAMP:20240125T130000Z
+DESCRIPTION:Мальцев Юрий Иванович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240212T090000
+DTEND:20240212T103000
+DTSTAMP:20240212T090000Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240212T104500
+DTEND:20240212T121500
+DTSTAMP:20240212T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240219T090000
+DTEND:20240219T103000
+DTSTAMP:20240219T090000Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240219T104500
+DTEND:20240219T121500
+DTSTAMP:20240219T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по динамике поле
+ та и управлению движением летательных а
+ ппаратов
+DTSTART:20240226T090000
+DTEND:20240226T103000
+DTSTAMP:20240226T090000Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240226T104500
+DTEND:20240226T121500
+DTSTAMP:20240226T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240304T090000
+DTEND:20240304T103000
+DTSTAMP:20240304T090000Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240304T104500
+DTEND:20240304T121500
+DTSTAMP:20240304T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по динамике поле
+ та и управлению движением летательных а
+ ппаратов
+DTSTART:20240311T090000
+DTEND:20240311T103000
+DTSTAMP:20240311T090000Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240311T104500
+DTEND:20240311T121500
+DTSTAMP:20240311T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240318T090000
+DTEND:20240318T103000
+DTSTAMP:20240318T090000Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240318T104500
+DTEND:20240318T121500
+DTSTAMP:20240318T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по динамике поле
+ та и управлению движением летательных а
+ ппаратов
+DTSTART:20240325T090000
+DTEND:20240325T103000
+DTSTAMP:20240325T090000Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240325T104500
+DTEND:20240325T121500
+DTSTAMP:20240325T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240401T090000
+DTEND:20240401T103000
+DTSTAMP:20240401T090000Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240401T104500
+DTEND:20240401T121500
+DTSTAMP:20240401T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по динамике поле
+ та и управлению движением летательных а
+ ппаратов
+DTSTART:20240408T090000
+DTEND:20240408T103000
+DTSTAMP:20240408T090000Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240408T104500
+DTEND:20240408T121500
+DTSTAMP:20240408T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240415T090000
+DTEND:20240415T103000
+DTSTAMP:20240415T090000Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240415T104500
+DTEND:20240415T121500
+DTSTAMP:20240415T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-309
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по динамике поле
+ та и управлению движением летательных а
+ ппаратов
+DTSTART:20240422T090000
+DTEND:20240422T103000
+DTSTAMP:20240422T090000Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240422T104500
+DTEND:20240422T121500
+DTSTAMP:20240422T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по динамике поле
+ та и управлению движением летательных а
+ ппаратов
+DTSTART:20240506T090000
+DTEND:20240506T103000
+DTSTAMP:20240506T090000Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-302
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы планирования и обработки 
+ экспериментальных данных
+DTSTART:20240506T104500
+DTEND:20240506T121500
+DTSTAMP:20240506T104500Z
+DESCRIPTION:Иргалеев Ильяс Хусаинович
+LOCATION:4-412
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,759 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы моделирования
+DTSTART:20240112T104500
+DTEND:20240112T121500
+DTSTAMP:20240112T104500Z
+DESCRIPTION:Рублева Даяна Бахтияровна
+LOCATION:Берн. 14-402-02
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Интеллектуальные системы
+DTSTART:20240116T104500
+DTEND:20240116T121500
+DTSTAMP:20240116T104500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-622
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Информационная безопасност
+ ь
+DTSTART:20240120T104500
+DTEND:20240120T121500
+DTSTAMP:20240120T104500Z
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+LOCATION:Берн. 14-623
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы и технические средст
+ ва накопления\, преобразования и передач
+ и энергии
+DTSTART:20240124T104500
+DTEND:20240124T121500
+DTSTAMP:20240124T104500Z
+DESCRIPTION:МАЦЫКИН СЕРГЕЙ ВАСИЛЬЕВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240213T163000
+DTEND:20240213T180000
+DTSTAMP:20240213T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240214T144500
+DTEND:20240214T161500
+DTSTAMP:20240214T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240214T163000
+DTEND:20240214T180000
+DTSTAMP:20240214T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240214T181500
+DTEND:20240214T194500
+DTSTAMP:20240214T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240215T163000
+DTEND:20240215T180000
+DTSTAMP:20240215T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240215T181500
+DTEND:20240215T194500
+DTSTAMP:20240215T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240220T163000
+DTEND:20240220T180000
+DTSTAMP:20240220T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240221T144500
+DTEND:20240221T161500
+DTSTAMP:20240221T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240221T163000
+DTEND:20240221T180000
+DTSTAMP:20240221T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240221T181500
+DTEND:20240221T194500
+DTSTAMP:20240221T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240227T163000
+DTEND:20240227T180000
+DTSTAMP:20240227T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240228T144500
+DTEND:20240228T161500
+DTSTAMP:20240228T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240228T163000
+DTEND:20240228T180000
+DTSTAMP:20240228T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240228T181500
+DTEND:20240228T194500
+DTSTAMP:20240228T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240229T163000
+DTEND:20240229T180000
+DTSTAMP:20240229T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240229T181500
+DTEND:20240229T194500
+DTSTAMP:20240229T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240306T144500
+DTEND:20240306T161500
+DTSTAMP:20240306T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240306T163000
+DTEND:20240306T180000
+DTSTAMP:20240306T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240306T181500
+DTEND:20240306T194500
+DTSTAMP:20240306T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Методы моделирования технически
+ х систем
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240313T144500
+DTEND:20240313T161500
+DTSTAMP:20240313T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240313T163000
+DTEND:20240313T180000
+DTSTAMP:20240313T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240313T181500
+DTEND:20240313T194500
+DTSTAMP:20240313T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240314T163000
+DTEND:20240314T180000
+DTSTAMP:20240314T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240314T181500
+DTEND:20240314T194500
+DTSTAMP:20240314T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240314T200000
+DTEND:20240314T213000
+DTSTAMP:20240314T200000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240320T144500
+DTEND:20240320T161500
+DTSTAMP:20240320T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240320T163000
+DTEND:20240320T180000
+DTSTAMP:20240320T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240320T181500
+DTEND:20240320T194500
+DTSTAMP:20240320T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240321T163000
+DTEND:20240321T180000
+DTSTAMP:20240321T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240321T181500
+DTEND:20240321T194500
+DTSTAMP:20240321T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240327T144500
+DTEND:20240327T161500
+DTSTAMP:20240327T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240327T163000
+DTEND:20240327T180000
+DTSTAMP:20240327T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240327T181500
+DTEND:20240327T194500
+DTSTAMP:20240327T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240328T163000
+DTEND:20240328T180000
+DTSTAMP:20240328T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240328T181500
+DTEND:20240328T194500
+DTSTAMP:20240328T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240328T200000
+DTEND:20240328T213000
+DTSTAMP:20240328T200000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240403T144500
+DTEND:20240403T161500
+DTSTAMP:20240403T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240403T163000
+DTEND:20240403T180000
+DTSTAMP:20240403T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240403T181500
+DTEND:20240403T194500
+DTSTAMP:20240403T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240404T163000
+DTEND:20240404T180000
+DTSTAMP:20240404T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240404T181500
+DTEND:20240404T194500
+DTSTAMP:20240404T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240410T144500
+DTEND:20240410T161500
+DTSTAMP:20240410T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240410T163000
+DTEND:20240410T180000
+DTSTAMP:20240410T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240410T181500
+DTEND:20240410T194500
+DTSTAMP:20240410T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240411T163000
+DTEND:20240411T180000
+DTSTAMP:20240411T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240411T181500
+DTEND:20240411T194500
+DTSTAMP:20240411T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240411T200000
+DTEND:20240411T213000
+DTSTAMP:20240411T200000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240416T163000
+DTEND:20240416T180000
+DTSTAMP:20240416T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240417T144500
+DTEND:20240417T161500
+DTSTAMP:20240417T144500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240417T163000
+DTEND:20240417T180000
+DTSTAMP:20240417T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240417T181500
+DTEND:20240417T194500
+DTSTAMP:20240417T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240418T163000
+DTEND:20240418T180000
+DTSTAMP:20240418T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240418T181500
+DTEND:20240418T194500
+DTSTAMP:20240418T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240423T163000
+DTEND:20240423T180000
+DTSTAMP:20240423T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240424T163000
+DTEND:20240424T180000
+DTSTAMP:20240424T163000Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии проектирования прогр
+ аммного обеспечения систем управления
+DTSTART:20240424T181500
+DTEND:20240424T194500
+DTSTAMP:20240424T181500Z
+DESCRIPTION:САВИЛКИН СЕРГЕЙ БОРИСОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240425T163000
+DTEND:20240425T180000
+DTSTAMP:20240425T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240425T181500
+DTEND:20240425T194500
+DTSTAMP:20240425T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240425T200000
+DTEND:20240425T213000
+DTSTAMP:20240425T200000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240502T163000
+DTEND:20240502T180000
+DTSTAMP:20240502T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Аппаратно-программные комплексы 
+ энергетических систем
+DTSTART:20240502T181500
+DTEND:20240502T194500
+DTSTAMP:20240502T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240507T163000
+DTEND:20240507T180000
+DTSTAMP:20240507T163000Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Методы моделирования технически
+ х систем
+DTSTART:20240507T181500
+DTEND:20240507T194500
+DTSTAMP:20240507T181500Z
+DESCRIPTION:ОСИПОВ ВЛАДИСЛАВ ВАДИМОВИЧ
+LOCATION:Берн. 14-621
+END:VEVENT
+END:VCALENDAR

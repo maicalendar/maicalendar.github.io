@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Динамика\, прочность машин\, 
+ приборов и аппаратуры
+DTSTART:20240208T163000
+DTEND:20240208T180000
+DTSTAMP:20240208T163000Z
+DESCRIPTION:Локтева Наталья Александровна
+LOCATION:ГУК Б-348
+END:VEVENT
+END:VCALENDAR

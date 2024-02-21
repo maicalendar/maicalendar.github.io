@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Системный анализ\, управлен
+ ие и обработка информации
+DTSTART:20240205T163000
+DTEND:20240205T180000
+DTSTAMP:20240205T163000Z
+DESCRIPTION:Старков Александр Владимирович
+LOCATION:24-318Б
+END:VEVENT
+END:VCALENDAR

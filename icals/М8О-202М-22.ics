@@ -1,0 +1,762 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Виртуальные динамические м
+ одели и цифровые двойники
+DTSTART:20240115T090000
+DTEND:20240115T103000
+DTSTAMP:20240115T090000Z
+DESCRIPTION:Косенко Иван Иванович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Виртуальные динамические м
+ одели и цифровые двойники
+DTSTART:20240115T104500
+DTEND:20240115T121500
+DTSTAMP:20240115T104500Z
+DESCRIPTION:Косенко Иван Иванович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы компьютерного зрени
+ я и видеоаналитика движения объектов
+DTSTART:20240119T090000
+DTEND:20240119T103000
+DTSTAMP:20240119T090000Z
+DESCRIPTION:Доброславский Александр Владимир
+ ович
+LOCATION:ГУК А-626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы компьютерного зрени
+ я и видеоаналитика движения объектов
+DTSTART:20240119T104500
+DTEND:20240119T121500
+DTSTAMP:20240119T104500Z
+DESCRIPTION:Доброславский Александр Владимир
+ ович
+LOCATION:ГУК А-626
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240212T163000
+DTEND:20240212T180000
+DTSTAMP:20240212T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240212T181500
+DTEND:20240212T194500
+DTSTAMP:20240212T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240213T163000
+DTEND:20240213T180000
+DTSTAMP:20240213T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240219T163000
+DTEND:20240219T180000
+DTSTAMP:20240219T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240219T181500
+DTEND:20240219T194500
+DTSTAMP:20240219T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240220T130000
+DTEND:20240220T143000
+DTSTAMP:20240220T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240220T144500
+DTEND:20240220T161500
+DTSTAMP:20240220T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240220T163000
+DTEND:20240220T180000
+DTSTAMP:20240220T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240221T163000
+DTEND:20240221T180000
+DTSTAMP:20240221T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240221T181500
+DTEND:20240221T194500
+DTSTAMP:20240221T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240226T163000
+DTEND:20240226T180000
+DTSTAMP:20240226T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240226T181500
+DTEND:20240226T194500
+DTSTAMP:20240226T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240227T130000
+DTEND:20240227T143000
+DTSTAMP:20240227T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240227T144500
+DTEND:20240227T161500
+DTSTAMP:20240227T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240227T163000
+DTEND:20240227T180000
+DTSTAMP:20240227T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240228T163000
+DTEND:20240228T180000
+DTSTAMP:20240228T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240228T181500
+DTEND:20240228T194500
+DTSTAMP:20240228T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240304T163000
+DTEND:20240304T180000
+DTSTAMP:20240304T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240304T181500
+DTEND:20240304T194500
+DTSTAMP:20240304T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240305T130000
+DTEND:20240305T143000
+DTSTAMP:20240305T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240305T144500
+DTEND:20240305T161500
+DTSTAMP:20240305T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240306T163000
+DTEND:20240306T180000
+DTSTAMP:20240306T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240306T181500
+DTEND:20240306T194500
+DTSTAMP:20240306T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240311T163000
+DTEND:20240311T180000
+DTSTAMP:20240311T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240311T181500
+DTEND:20240311T194500
+DTSTAMP:20240311T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240312T130000
+DTEND:20240312T143000
+DTSTAMP:20240312T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240312T144500
+DTEND:20240312T161500
+DTSTAMP:20240312T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240313T163000
+DTEND:20240313T180000
+DTSTAMP:20240313T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240313T181500
+DTEND:20240313T194500
+DTSTAMP:20240313T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240318T163000
+DTEND:20240318T180000
+DTSTAMP:20240318T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240318T181500
+DTEND:20240318T194500
+DTSTAMP:20240318T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240319T130000
+DTEND:20240319T143000
+DTSTAMP:20240319T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240319T144500
+DTEND:20240319T161500
+DTSTAMP:20240319T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240320T163000
+DTEND:20240320T180000
+DTSTAMP:20240320T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240320T181500
+DTEND:20240320T194500
+DTSTAMP:20240320T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240325T163000
+DTEND:20240325T180000
+DTSTAMP:20240325T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240325T181500
+DTEND:20240325T194500
+DTSTAMP:20240325T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240326T130000
+DTEND:20240326T143000
+DTSTAMP:20240326T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240326T144500
+DTEND:20240326T161500
+DTSTAMP:20240326T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240327T163000
+DTEND:20240327T180000
+DTSTAMP:20240327T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240327T181500
+DTEND:20240327T194500
+DTSTAMP:20240327T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240401T163000
+DTEND:20240401T180000
+DTSTAMP:20240401T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240401T181500
+DTEND:20240401T194500
+DTSTAMP:20240401T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240402T130000
+DTEND:20240402T143000
+DTSTAMP:20240402T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240402T144500
+DTEND:20240402T161500
+DTSTAMP:20240402T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240403T163000
+DTEND:20240403T180000
+DTSTAMP:20240403T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240403T181500
+DTEND:20240403T194500
+DTSTAMP:20240403T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240408T163000
+DTEND:20240408T180000
+DTSTAMP:20240408T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240408T181500
+DTEND:20240408T194500
+DTSTAMP:20240408T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240409T130000
+DTEND:20240409T143000
+DTSTAMP:20240409T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240409T144500
+DTEND:20240409T161500
+DTSTAMP:20240409T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240410T163000
+DTEND:20240410T180000
+DTSTAMP:20240410T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240410T181500
+DTEND:20240410T194500
+DTSTAMP:20240410T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240415T163000
+DTEND:20240415T180000
+DTSTAMP:20240415T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240415T181500
+DTEND:20240415T194500
+DTSTAMP:20240415T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240416T130000
+DTEND:20240416T143000
+DTSTAMP:20240416T130000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240416T144500
+DTEND:20240416T161500
+DTSTAMP:20240416T144500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240416T163000
+DTEND:20240416T180000
+DTSTAMP:20240416T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240417T163000
+DTEND:20240417T180000
+DTSTAMP:20240417T163000Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240417T181500
+DTEND:20240417T194500
+DTSTAMP:20240417T181500Z
+DESCRIPTION:Рачков Алексей Андреевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240423T163000
+DTEND:20240423T180000
+DTSTAMP:20240423T163000Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейросетевые методы распознаван
+ ия образов и анализ сложных систем
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:Леонов Сергей Сергеевич
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240429T163000
+DTEND:20240429T180000
+DTSTAMP:20240429T163000Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математические и компьютерные мо
+ дели мехатроники
+DTSTART:20240429T181500
+DTEND:20240429T194500
+DTSTAMP:20240429T181500Z
+DESCRIPTION:Бардин Борис Сабирович
+LOCATION:ГУК А-624
+END:VEVENT
+END:VCALENDAR

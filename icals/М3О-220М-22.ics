@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Технологии искусственного 
+ интеллекта и обучающие системы
+DTSTART:20240115T130000
+DTEND:20240115T143000
+DTSTAMP:20240115T130000Z
+DESCRIPTION:ВЛАСЕНКО АРТЕМ НИКОЛАЕВИЧ
+LOCATION:Орш. Б-505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Технологии искусственного 
+ интеллекта и обучающие системы
+DTSTART:20240115T144500
+DTEND:20240115T161500
+DTSTAMP:20240115T144500Z
+DESCRIPTION:ВЛАСЕНКО АРТЕМ НИКОЛАЕВИЧ
+LOCATION:Орш. Б-505
+END:VEVENT
+END:VCALENDAR

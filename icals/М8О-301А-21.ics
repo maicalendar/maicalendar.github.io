@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Системный анализ\, управлен
+ ие и обработка информации
+DTSTART:20240207T163000
+DTEND:20240207T180000
+DTSTAMP:20240207T163000Z
+DESCRIPTION:Кибзун Андрей Иванович
+LOCATION:ГУК А-115
+END:VEVENT
+END:VCALENDAR

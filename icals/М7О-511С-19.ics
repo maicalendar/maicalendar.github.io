@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы исследования эффект
+ ивности  авиационных организационно-тех
+ нических систем
+DTSTART:20240115T090000
+DTEND:20240115T103000
+DTSTAMP:20240115T090000Z
+DESCRIPTION:Скрипниченко Юрий Станиславович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы исследования эффект
+ ивности  авиационных организационно-тех
+ нических систем
+DTSTART:20240115T104500
+DTEND:20240115T121500
+DTSTAMP:20240115T104500Z
+DESCRIPTION:Скрипниченко Юрий Станиславович
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Внешнее проектирование ави
+ ационных организационно-технических си
+ стем
+DTSTART:20240119T090000
+DTEND:20240119T103000
+DTSTAMP:20240119T090000Z
+DESCRIPTION:
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Внешнее проектирование ави
+ ационных организационно-технических си
+ стем
+DTSTART:20240119T104500
+DTEND:20240119T121500
+DTSTAMP:20240119T104500Z
+DESCRIPTION:
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Экономика и организация про
+ мышленности
+DTSTART:20240123T090000
+DTEND:20240123T103000
+DTSTAMP:20240123T090000Z
+DESCRIPTION:
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Экономика и организация про
+ мышленности
+DTSTART:20240123T104500
+DTEND:20240123T121500
+DTSTAMP:20240123T104500Z
+DESCRIPTION:
+LOCATION:--каф.
+END:VEVENT
+END:VCALENDAR

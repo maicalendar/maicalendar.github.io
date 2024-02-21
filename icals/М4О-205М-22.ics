@@ -1,0 +1,550 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Генераторы колебаний с упра
+ вляемыми параметрами
+DTSTART:20240115T130000
+DTEND:20240115T143000
+DTSTAMP:20240115T130000Z
+DESCRIPTION:Добычина Елена Михайловна
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы измерения и диагност
+ ики ФАР
+DTSTART:20240119T104500
+DTEND:20240119T121500
+DTSTAMP:20240119T104500Z
+DESCRIPTION:Темченко Владимир Степанович
+LOCATION:24Б-621
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Антенны с широкоугольным ск
+ анированием
+DTSTART:20240125T130000
+DTEND:20240125T143000
+DTSTAMP:20240125T130000Z
+DESCRIPTION:Овчинникова Елена Викторовна
+LOCATION:24Б-625
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240212T144500
+DTEND:20240212T161500
+DTSTAMP:20240212T144500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240212T163000
+DTEND:20240212T180000
+DTSTAMP:20240212T163000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240212T181500
+DTEND:20240212T194500
+DTSTAMP:20240212T181500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240214T104500
+DTEND:20240214T121500
+DTSTAMP:20240214T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240214T130000
+DTEND:20240214T143000
+DTSTAMP:20240214T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240214T144500
+DTEND:20240214T161500
+DTSTAMP:20240214T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240219T144500
+DTEND:20240219T161500
+DTSTAMP:20240219T144500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240219T163000
+DTEND:20240219T180000
+DTSTAMP:20240219T163000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240221T104500
+DTEND:20240221T121500
+DTSTAMP:20240221T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240221T130000
+DTEND:20240221T143000
+DTSTAMP:20240221T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240221T144500
+DTEND:20240221T161500
+DTSTAMP:20240221T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240228T104500
+DTEND:20240228T121500
+DTSTAMP:20240228T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240228T130000
+DTEND:20240228T143000
+DTSTAMP:20240228T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240228T144500
+DTEND:20240228T161500
+DTSTAMP:20240228T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240304T144500
+DTEND:20240304T161500
+DTSTAMP:20240304T144500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240304T163000
+DTEND:20240304T180000
+DTSTAMP:20240304T163000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240306T104500
+DTEND:20240306T121500
+DTSTAMP:20240306T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240306T130000
+DTEND:20240306T143000
+DTSTAMP:20240306T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240306T144500
+DTEND:20240306T161500
+DTSTAMP:20240306T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240313T104500
+DTEND:20240313T121500
+DTSTAMP:20240313T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240313T130000
+DTEND:20240313T143000
+DTSTAMP:20240313T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240313T144500
+DTEND:20240313T161500
+DTSTAMP:20240313T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240318T144500
+DTEND:20240318T161500
+DTSTAMP:20240318T144500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240318T163000
+DTEND:20240318T180000
+DTSTAMP:20240318T163000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240320T104500
+DTEND:20240320T121500
+DTSTAMP:20240320T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240320T130000
+DTEND:20240320T143000
+DTSTAMP:20240320T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240320T144500
+DTEND:20240320T161500
+DTSTAMP:20240320T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240322T090000
+DTEND:20240322T103000
+DTSTAMP:20240322T090000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240322T104500
+DTEND:20240322T121500
+DTSTAMP:20240322T104500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240327T104500
+DTEND:20240327T121500
+DTSTAMP:20240327T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240327T130000
+DTEND:20240327T143000
+DTSTAMP:20240327T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240327T144500
+DTEND:20240327T161500
+DTSTAMP:20240327T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240401T144500
+DTEND:20240401T161500
+DTSTAMP:20240401T144500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240401T163000
+DTEND:20240401T180000
+DTSTAMP:20240401T163000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240403T104500
+DTEND:20240403T121500
+DTSTAMP:20240403T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240403T130000
+DTEND:20240403T143000
+DTSTAMP:20240403T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240403T144500
+DTEND:20240403T161500
+DTSTAMP:20240403T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240405T090000
+DTEND:20240405T103000
+DTSTAMP:20240405T090000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240405T104500
+DTEND:20240405T121500
+DTSTAMP:20240405T104500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240410T104500
+DTEND:20240410T121500
+DTSTAMP:20240410T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240410T130000
+DTEND:20240410T143000
+DTSTAMP:20240410T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240410T144500
+DTEND:20240410T161500
+DTSTAMP:20240410T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240417T104500
+DTEND:20240417T121500
+DTSTAMP:20240417T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240417T130000
+DTEND:20240417T143000
+DTSTAMP:20240417T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240417T144500
+DTEND:20240417T161500
+DTSTAMP:20240417T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240419T090000
+DTEND:20240419T103000
+DTSTAMP:20240419T090000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240419T104500
+DTEND:20240419T121500
+DTSTAMP:20240419T104500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240424T104500
+DTEND:20240424T121500
+DTSTAMP:20240424T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240424T130000
+DTEND:20240424T143000
+DTSTAMP:20240424T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240424T144500
+DTEND:20240424T161500
+DTSTAMP:20240424T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240503T090000
+DTEND:20240503T103000
+DTSTAMP:20240503T090000Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Математическое моделирование ра
+ диотехнических устройств и систем
+DTSTART:20240503T104500
+DTEND:20240503T121500
+DTSTAMP:20240503T104500Z
+DESCRIPTION:Васин Антон Александрович
+LOCATION:24Б-620
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240508T104500
+DTEND:20240508T121500
+DTSTAMP:20240508T104500Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Нейронные сети в задачах оптимиз
+ ации СВЧ устройств
+DTSTART:20240508T130000
+DTEND:20240508T143000
+DTSTAMP:20240508T130000Z
+DESCRIPTION:Шмачилин Павел Александрович
+LOCATION:24Б-624
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по антенной техн
+ ике
+DTSTART:20240508T144500
+DTEND:20240508T161500
+DTSTAMP:20240508T144500Z
+DESCRIPTION:Шмачилин Павел Александрович\, До
+ бычина Елена Михайловна\, Кондратьева Св
+ етлана Геннадьевна
+LOCATION:24Б-624
+END:VEVENT
+END:VCALENDAR

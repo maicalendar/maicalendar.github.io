@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Динамика\, баллистика\, упра
+ вление движением летательных аппаратов
+DTSTART:20240206T104500
+DTEND:20240206T121500
+DTSTAMP:20240206T104500Z
+DESCRIPTION:Ефремов Александр Викторович
+LOCATION:4-412
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Порошковая металлургия и ко
+ мпозиционные материалы
+DTSTART:20240209T163000
+DTEND:20240209T180000
+DTSTAMP:20240209T163000Z
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+LOCATION:Орш. А-525
+END:VEVENT
+END:VCALENDAR

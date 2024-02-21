@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Тепловые\, электроракетные 
+ двигатели и энергетические установки
+DTSTART:20240207T163000
+DTEND:20240207T180000
+DTSTAMP:20240207T163000Z
+DESCRIPTION:Хартов Сергей Анатольевич
+LOCATION:2-401-1 (2В)
+END:VEVENT
+END:VCALENDAR

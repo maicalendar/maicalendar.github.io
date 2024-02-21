@@ -1,0 +1,596 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Обеспечение надежности и бе
+ зопасности при разработке и эксплуатаци
+ и космических аппаратов
+DTSTART:20240115T163000
+DTEND:20240115T180000
+DTSTAMP:20240115T163000Z
+DESCRIPTION:Гусев Евгений Владимирович
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Обеспечение надежности и бе
+ зопасности при разработке и эксплуатаци
+ и космических аппаратов
+DTSTART:20240115T181500
+DTEND:20240115T194500
+DTSTAMP:20240115T181500Z
+DESCRIPTION:Гусев Евгений Владимирович
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Экспериментальная отработк
+ а сложных технических систем
+DTSTART:20240119T163000
+DTEND:20240119T180000
+DTSTAMP:20240119T163000Z
+DESCRIPTION:Палешкин Андрей Вячеславович
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Экспериментальная отработк
+ а сложных технических систем
+DTSTART:20240119T181500
+DTEND:20240119T194500
+DTSTAMP:20240119T181500Z
+DESCRIPTION:Палешкин Андрей Вячеславович
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240213T200000
+DTEND:20240213T213000
+DTSTAMP:20240213T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240214T181500
+DTEND:20240214T194500
+DTSTAMP:20240214T181500Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240214T200000
+DTEND:20240214T213000
+DTSTAMP:20240214T200000Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240220T163000
+DTEND:20240220T180000
+DTSTAMP:20240220T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240221T163000
+DTEND:20240221T180000
+DTSTAMP:20240221T163000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240221T181500
+DTEND:20240221T194500
+DTSTAMP:20240221T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240227T200000
+DTEND:20240227T213000
+DTSTAMP:20240227T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240228T181500
+DTEND:20240228T194500
+DTSTAMP:20240228T181500Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240228T200000
+DTEND:20240228T213000
+DTSTAMP:20240228T200000Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240306T163000
+DTEND:20240306T180000
+DTSTAMP:20240306T163000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240306T181500
+DTEND:20240306T194500
+DTSTAMP:20240306T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240311T181500
+DTEND:20240311T194500
+DTSTAMP:20240311T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240311T200000
+DTEND:20240311T213000
+DTSTAMP:20240311T200000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240312T200000
+DTEND:20240312T213000
+DTSTAMP:20240312T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240313T181500
+DTEND:20240313T194500
+DTSTAMP:20240313T181500Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240313T200000
+DTEND:20240313T213000
+DTSTAMP:20240313T200000Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240320T163000
+DTEND:20240320T180000
+DTSTAMP:20240320T163000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240320T181500
+DTEND:20240320T194500
+DTSTAMP:20240320T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240321T181500
+DTEND:20240321T194500
+DTSTAMP:20240321T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240321T200000
+DTEND:20240321T213000
+DTSTAMP:20240321T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240325T181500
+DTEND:20240325T194500
+DTSTAMP:20240325T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240325T200000
+DTEND:20240325T213000
+DTSTAMP:20240325T200000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240326T200000
+DTEND:20240326T213000
+DTSTAMP:20240326T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240327T181500
+DTEND:20240327T194500
+DTSTAMP:20240327T181500Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240327T200000
+DTEND:20240327T213000
+DTSTAMP:20240327T200000Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240403T163000
+DTEND:20240403T180000
+DTSTAMP:20240403T163000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240403T181500
+DTEND:20240403T194500
+DTSTAMP:20240403T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240404T181500
+DTEND:20240404T194500
+DTSTAMP:20240404T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240404T200000
+DTEND:20240404T213000
+DTSTAMP:20240404T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240409T200000
+DTEND:20240409T213000
+DTSTAMP:20240409T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240410T181500
+DTEND:20240410T194500
+DTSTAMP:20240410T181500Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240410T200000
+DTEND:20240410T213000
+DTSTAMP:20240410T200000Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240416T163000
+DTEND:20240416T180000
+DTSTAMP:20240416T163000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-717
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240417T163000
+DTEND:20240417T180000
+DTSTAMP:20240417T163000Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-438
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240417T181500
+DTEND:20240417T194500
+DTSTAMP:20240417T181500Z
+DESCRIPTION:Заговорчев Владимир Александрови
+ ч
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240418T181500
+DTEND:20240418T194500
+DTSTAMP:20240418T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240418T200000
+DTEND:20240418T213000
+DTSTAMP:20240418T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240423T200000
+DTEND:20240423T213000
+DTSTAMP:20240423T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240424T181500
+DTEND:20240424T194500
+DTSTAMP:20240424T181500Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научный семинар по ракетным сист
+ емам и космонавтике
+DTSTART:20240424T200000
+DTEND:20240424T213000
+DTSTAMP:20240424T200000Z
+DESCRIPTION:Тушавина Ольга Валериановна
+LOCATION:24-444
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240502T181500
+DTEND:20240502T194500
+DTSTAMP:20240502T181500Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии искусственного интел
+ лекта в инженерной и управленческой дея
+ тельности
+DTSTART:20240502T200000
+DTEND:20240502T213000
+DTSTAMP:20240502T200000Z
+DESCRIPTION:Одинцова Екатерина Игоревна
+LOCATION:24-502
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240507T181500
+DTEND:20240507T194500
+DTSTAMP:20240507T181500Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Экспериментальная отработка сло
+ жных технических систем
+DTSTART:20240507T200000
+DTEND:20240507T213000
+DTSTAMP:20240507T200000Z
+DESCRIPTION:Гофин Михаил Яковлевич
+LOCATION:24-440
+END:VEVENT
+END:VCALENDAR

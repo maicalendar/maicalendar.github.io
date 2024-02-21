@@ -1,0 +1,513 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Системы информационной под
+ держки разработок
+DTSTART:20240115T163000
+DTEND:20240115T180000
+DTSTAMP:20240115T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Системы информационной под
+ держки разработок
+DTSTART:20240115T181500
+DTEND:20240115T194500
+DTSTAMP:20240115T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы моделирования
+DTSTART:20240119T163000
+DTEND:20240119T180000
+DTSTAMP:20240119T163000Z
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Методы моделирования
+DTSTART:20240119T181500
+DTEND:20240119T194500
+DTSTAMP:20240119T181500Z
+DESCRIPTION:ШЕВЧЕНКО МИХАИЛ ИГОРЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Интеллектуальные системы
+DTSTART:20240124T163000
+DTEND:20240124T180000
+DTSTAMP:20240124T163000Z
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Интеллектуальные системы
+DTSTART:20240124T181500
+DTEND:20240124T194500
+DTSTAMP:20240124T181500Z
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240213T163000
+DTEND:20240213T180000
+DTSTAMP:20240213T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240215T163000
+DTEND:20240215T180000
+DTSTAMP:20240215T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240215T181500
+DTEND:20240215T194500
+DTSTAMP:20240215T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240217T130000
+DTEND:20240217T143000
+DTSTAMP:20240217T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240217T144500
+DTEND:20240217T161500
+DTSTAMP:20240217T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240220T163000
+DTEND:20240220T180000
+DTSTAMP:20240220T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240224T130000
+DTEND:20240224T143000
+DTSTAMP:20240224T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240224T144500
+DTEND:20240224T161500
+DTSTAMP:20240224T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240227T163000
+DTEND:20240227T180000
+DTSTAMP:20240227T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240229T163000
+DTEND:20240229T180000
+DTSTAMP:20240229T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240229T181500
+DTEND:20240229T194500
+DTSTAMP:20240229T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240302T130000
+DTEND:20240302T143000
+DTSTAMP:20240302T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240302T144500
+DTEND:20240302T161500
+DTSTAMP:20240302T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240309T130000
+DTEND:20240309T143000
+DTSTAMP:20240309T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240309T144500
+DTEND:20240309T161500
+DTSTAMP:20240309T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240314T163000
+DTEND:20240314T180000
+DTSTAMP:20240314T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240314T181500
+DTEND:20240314T194500
+DTSTAMP:20240314T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240316T130000
+DTEND:20240316T143000
+DTSTAMP:20240316T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240316T144500
+DTEND:20240316T161500
+DTSTAMP:20240316T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240321T163000
+DTEND:20240321T180000
+DTSTAMP:20240321T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240321T181500
+DTEND:20240321T194500
+DTSTAMP:20240321T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240323T130000
+DTEND:20240323T143000
+DTSTAMP:20240323T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240323T144500
+DTEND:20240323T161500
+DTSTAMP:20240323T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240328T163000
+DTEND:20240328T180000
+DTSTAMP:20240328T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240328T181500
+DTEND:20240328T194500
+DTSTAMP:20240328T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240330T130000
+DTEND:20240330T143000
+DTSTAMP:20240330T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством промышленн
+ ой продукции
+DTSTART:20240330T144500
+DTEND:20240330T161500
+DTSTAMP:20240330T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240404T163000
+DTEND:20240404T180000
+DTSTAMP:20240404T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240404T181500
+DTEND:20240404T194500
+DTSTAMP:20240404T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240406T130000
+DTEND:20240406T143000
+DTSTAMP:20240406T130000Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Управление качеством промышленн
+ ой продукции
+DTSTART:20240406T144500
+DTEND:20240406T161500
+DTSTAMP:20240406T144500Z
+DESCRIPTION:КОЛЕСНИКОВ ДМИТРИЙ АЛЕКСАНДРОВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240411T163000
+DTEND:20240411T180000
+DTSTAMP:20240411T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240411T181500
+DTEND:20240411T194500
+DTSTAMP:20240411T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Современные проблемы информатик
+ и и вычислительной техники
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+LOCATION:Орш. В-510
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240418T163000
+DTEND:20240418T180000
+DTSTAMP:20240418T163000Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Автоматизация конструкторско-те
+ хнологического проектирования
+DTSTART:20240418T181500
+DTEND:20240418T194500
+DTSTAMP:20240418T181500Z
+DESCRIPTION:КУЗНЕЦОВ ПАВЕЛ МИХАЙЛОВИЧ
+LOCATION:--каф.
+END:VEVENT
+END:VCALENDAR

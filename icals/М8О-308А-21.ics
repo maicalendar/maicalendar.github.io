@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Математическое и программн
+ ое обеспечение вычислительных машин\, ко
+ мплексов и компьютерных сетей
+DTSTART:20240207T163000
+DTEND:20240207T180000
+DTSTAMP:20240207T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-612
+END:VEVENT
+END:VCALENDAR

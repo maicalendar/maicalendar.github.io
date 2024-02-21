@@ -1,0 +1,80 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Моделирование СВЧ функцион
+ альных устройств
+DTSTART:20240112T090000
+DTEND:20240112T103000
+DTSTAMP:20240112T090000Z
+DESCRIPTION:КЛИМОВ КОНСТАНТИН НИКОЛАЕВИЧ
+LOCATION:Орш. Б-505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Моделирование СВЧ функцион
+ альных устройств
+DTSTART:20240112T104500
+DTEND:20240112T121500
+DTSTAMP:20240112T104500Z
+DESCRIPTION:КЛИМОВ КОНСТАНТИН НИКОЛАЕВИЧ
+LOCATION:Орш. Б-505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Стратегический анализ напр
+ авлений инновационного развития высоко
+ технологических предприятиях
+DTSTART:20240116T090000
+DTEND:20240116T103000
+DTSTAMP:20240116T090000Z
+DESCRIPTION:БЕЛЕВЦЕВ АНДРЕЙ МИХАЙЛОВИЧ
+LOCATION:--каф.317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Стратегический анализ напр
+ авлений инновационного развития высоко
+ технологических предприятиях
+DTSTART:20240116T104500
+DTEND:20240116T121500
+DTSTAMP:20240116T104500Z
+DESCRIPTION:БЕЛЕВЦЕВ АНДРЕЙ МИХАЙЛОВИЧ
+LOCATION:--каф.317
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Современные информационные
+  технологии проектирования электронных 
+ средств
+DTSTART:20240120T090000
+DTEND:20240120T103000
+DTSTAMP:20240120T090000Z
+DESCRIPTION:Дрягин Иван Олегович
+LOCATION:Орш. Б-505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Современные информационные
+  технологии проектирования электронных 
+ средств
+DTSTART:20240120T104500
+DTEND:20240120T121500
+DTSTAMP:20240120T104500Z
+DESCRIPTION:Дрягин Иван Олегович
+LOCATION:Орш. Б-505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Технологии РЭС нового покол
+ ения
+DTSTART:20240124T090000
+DTEND:20240124T103000
+DTSTAMP:20240124T090000Z
+DESCRIPTION:БУХАРОВ СЕРГЕЙ ВИКТОРОВИЧ
+LOCATION:Орш. Б-505
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Технологии РЭС нового покол
+ ения
+DTSTART:20240124T104500
+DTEND:20240124T121500
+DTSTAMP:20240124T104500Z
+DESCRIPTION:БУХАРОВ СЕРГЕЙ ВИКТОРОВИЧ
+LOCATION:Орш. Б-505
+END:VEVENT
+END:VCALENDAR

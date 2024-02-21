@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:ЛК Аннотирование и реферирование те
+ кстов авиационной тематики
+DTSTART:20240210T090000
+DTEND:20240210T103000
+DTSTAMP:20240210T090000Z
+DESCRIPTION:Курбакова Светлана Николаевна
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аннотирование и реферирование те
+ кстов авиационной тематики
+DTSTART:20240217T090000
+DTEND:20240217T103000
+DTSTAMP:20240217T090000Z
+DESCRIPTION:Курбакова Светлана Николаевна
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аннотирование и реферирование те
+ кстов авиационной тематики
+DTSTART:20240224T090000
+DTEND:20240224T103000
+DTSTAMP:20240224T090000Z
+DESCRIPTION:Курбакова Светлана Николаевна
+LOCATION:
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Аннотирование и реферирование те
+ кстов авиационной тематики
+DTSTART:20240302T090000
+DTEND:20240302T103000
+DTSTAMP:20240302T090000Z
+DESCRIPTION:Курбакова Светлана Николаевна
+LOCATION:
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,670 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240314T163000
+DTEND:20240314T180000
+DTSTAMP:20240314T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240314T181500
+DTEND:20240314T194500
+DTSTAMP:20240314T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240315T090000
+DTEND:20240315T103000
+DTSTAMP:20240315T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240315T104500
+DTEND:20240315T121500
+DTSTAMP:20240315T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240322T090000
+DTEND:20240322T103000
+DTSTAMP:20240322T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240322T104500
+DTEND:20240322T121500
+DTSTAMP:20240322T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240328T163000
+DTEND:20240328T180000
+DTSTAMP:20240328T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240328T181500
+DTEND:20240328T194500
+DTSTAMP:20240328T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240329T090000
+DTEND:20240329T103000
+DTSTAMP:20240329T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240329T104500
+DTEND:20240329T121500
+DTSTAMP:20240329T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240405T090000
+DTEND:20240405T103000
+DTSTAMP:20240405T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240405T104500
+DTEND:20240405T121500
+DTSTAMP:20240405T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240411T163000
+DTEND:20240411T180000
+DTSTAMP:20240411T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240411T181500
+DTEND:20240411T194500
+DTSTAMP:20240411T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240412T090000
+DTEND:20240412T103000
+DTSTAMP:20240412T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240412T104500
+DTEND:20240412T121500
+DTSTAMP:20240412T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240416T163000
+DTEND:20240416T180000
+DTSTAMP:20240416T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240418T163000
+DTEND:20240418T180000
+DTSTAMP:20240418T163000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240418T181500
+DTEND:20240418T194500
+DTSTAMP:20240418T181500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240419T090000
+DTEND:20240419T103000
+DTSTAMP:20240419T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240419T104500
+DTEND:20240419T121500
+DTSTAMP:20240419T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240423T163000
+DTEND:20240423T180000
+DTSTAMP:20240423T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240425T163000
+DTEND:20240425T180000
+DTSTAMP:20240425T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240425T181500
+DTEND:20240425T194500
+DTSTAMP:20240425T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240426T090000
+DTEND:20240426T103000
+DTSTAMP:20240426T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240426T104500
+DTEND:20240426T121500
+DTSTAMP:20240426T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240502T163000
+DTEND:20240502T180000
+DTSTAMP:20240502T163000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240502T181500
+DTEND:20240502T194500
+DTSTAMP:20240502T181500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240503T090000
+DTEND:20240503T103000
+DTSTAMP:20240503T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240503T104500
+DTEND:20240503T121500
+DTSTAMP:20240503T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240507T163000
+DTEND:20240507T180000
+DTSTAMP:20240507T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240507T181500
+DTEND:20240507T194500
+DTSTAMP:20240507T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240510T090000
+DTEND:20240510T103000
+DTSTAMP:20240510T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240510T104500
+DTEND:20240510T121500
+DTSTAMP:20240510T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240514T163000
+DTEND:20240514T180000
+DTSTAMP:20240514T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240514T181500
+DTEND:20240514T194500
+DTSTAMP:20240514T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240516T163000
+DTEND:20240516T180000
+DTSTAMP:20240516T163000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240516T181500
+DTEND:20240516T194500
+DTSTAMP:20240516T181500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240517T090000
+DTEND:20240517T103000
+DTSTAMP:20240517T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240517T104500
+DTEND:20240517T121500
+DTSTAMP:20240517T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240521T163000
+DTEND:20240521T180000
+DTSTAMP:20240521T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240521T181500
+DTEND:20240521T194500
+DTSTAMP:20240521T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240523T163000
+DTEND:20240523T180000
+DTSTAMP:20240523T163000Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240523T181500
+DTEND:20240523T194500
+DTSTAMP:20240523T181500Z
+DESCRIPTION:Гриб Елена Витальевна
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240524T090000
+DTEND:20240524T103000
+DTSTAMP:20240524T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240524T104500
+DTEND:20240524T121500
+DTSTAMP:20240524T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240528T163000
+DTEND:20240528T180000
+DTSTAMP:20240528T163000Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240528T181500
+DTEND:20240528T194500
+DTSTAMP:20240528T181500Z
+DESCRIPTION:
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240530T163000
+DTEND:20240530T180000
+DTSTAMP:20240530T163000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240530T181500
+DTEND:20240530T194500
+DTSTAMP:20240530T181500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240531T090000
+DTEND:20240531T103000
+DTSTAMP:20240531T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240531T104500
+DTEND:20240531T121500
+DTSTAMP:20240531T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240607T090000
+DTEND:20240607T103000
+DTSTAMP:20240607T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240607T104500
+DTEND:20240607T121500
+DTSTAMP:20240607T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240614T090000
+DTEND:20240614T103000
+DTSTAMP:20240614T090000Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Инженерная геометрия и компьютер
+ ная графика. Цифровая поддержка жизненн
+ ого цикла изделий
+DTSTART:20240614T104500
+DTEND:20240614T121500
+DTSTAMP:20240614T104500Z
+DESCRIPTION:Куприков Михаил Юрьевич
+LOCATION:ГУК А-732
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Государственное и обществе
+ нное регулирование рекламно-информацио
+ нной деятельностью в современной России
+DTSTART:20240112T163000
+DTEND:20240112T180000
+DTSTAMP:20240112T163000Z
+DESCRIPTION:МИВ-502Бк-19
+LOCATION:2-302(2А)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Взаимодействие с органами г
+ осударственной власти в связях с общест
+ венностью
+DTSTART:20240119T163000
+DTEND:20240119T180000
+DTSTAMP:20240119T163000Z
+DESCRIPTION:МИВ-502Бк-19
+LOCATION:2-302(2А)
+END:VEVENT
+END:VCALENDAR

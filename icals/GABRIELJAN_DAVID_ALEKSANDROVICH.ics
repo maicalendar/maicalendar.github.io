@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Биотехнические системы и те
+ хнологии в авиационной и ракетно-космич
+ еской технике
+DTSTART:20240112T163000
+DTEND:20240112T180000
+DTSTAMP:20240112T163000Z
+DESCRIPTION:М2О-106М-23
+LOCATION:2-203(2В)
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Биотехнические системы и те
+ хнологии в авиационной и ракетно-космич
+ еской технике
+DTSTART:20240112T181500
+DTEND:20240112T194500
+DTSTAMP:20240112T181500Z
+DESCRIPTION:М2О-106М-23
+LOCATION:2-203(2В)
+END:VEVENT
+END:VCALENDAR

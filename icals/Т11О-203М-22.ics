@@ -1,0 +1,416 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Сертификация и маркетинг в 
+ области новых материалов и технологий
+DTSTART:20240112T130000
+DTEND:20240112T143000
+DTSTAMP:20240112T130000Z
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+LOCATION:Орш. А-219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Сертификация и маркетинг в 
+ области новых материалов и технологий
+DTSTART:20240112T144500
+DTEND:20240112T161500
+DTSTAMP:20240112T144500Z
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+LOCATION:Орш. А-219
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Материаловедение и техноло
+ гии современных и перспективных материа
+ лов
+DTSTART:20240116T130000
+DTEND:20240116T143000
+DTSTAMP:20240116T130000Z
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+LOCATION:Орш. А-218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Материаловедение и техноло
+ гии современных и перспективных материа
+ лов
+DTSTART:20240116T144500
+DTEND:20240116T161500
+DTSTAMP:20240116T144500Z
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+LOCATION:Орш. А-218
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Обработка результатов науч
+ ных исследований
+DTSTART:20240120T090000
+DTEND:20240120T103000
+DTSTAMP:20240120T090000Z
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+LOCATION:Орш. А-432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Обработка результатов науч
+ ных исследований
+DTSTART:20240120T104500
+DTEND:20240120T121500
+DTSTAMP:20240120T104500Z
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+LOCATION:Орш. А-432
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Изменение физико-химически
+ х свойств материалов модифицированием и
+  нанесением покрытий
+DTSTART:20240125T090000
+DTEND:20240125T103000
+DTSTAMP:20240125T090000Z
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Изменение физико-химически
+ х свойств материалов модифицированием и
+  нанесением покрытий
+DTSTART:20240125T104500
+DTEND:20240125T121500
+DTSTAMP:20240125T104500Z
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240213T163000
+DTEND:20240213T180000
+DTSTAMP:20240213T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240214T163000
+DTEND:20240214T180000
+DTSTAMP:20240214T163000Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240214T181500
+DTEND:20240214T194500
+DTSTAMP:20240214T181500Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240220T163000
+DTEND:20240220T180000
+DTSTAMP:20240220T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240227T163000
+DTEND:20240227T180000
+DTSTAMP:20240227T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240228T163000
+DTEND:20240228T180000
+DTSTAMP:20240228T163000Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240228T181500
+DTEND:20240228T194500
+DTSTAMP:20240228T181500Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240313T163000
+DTEND:20240313T180000
+DTSTAMP:20240313T163000Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240313T181500
+DTEND:20240313T194500
+DTSTAMP:20240313T181500Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240327T163000
+DTEND:20240327T180000
+DTSTAMP:20240327T163000Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240327T181500
+DTEND:20240327T194500
+DTSTAMP:20240327T181500Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240410T163000
+DTEND:20240410T180000
+DTSTAMP:20240410T163000Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240410T181500
+DTEND:20240410T194500
+DTSTAMP:20240410T181500Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240416T163000
+DTEND:20240416T180000
+DTSTAMP:20240416T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛР Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240423T163000
+DTEND:20240423T180000
+DTSTAMP:20240423T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240424T163000
+DTEND:20240424T180000
+DTSTAMP:20240424T163000Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Основы подготовки выпускной квал
+ ификационной работы магистра
+DTSTART:20240424T181500
+DTEND:20240424T194500
+DTSTAMP:20240424T181500Z
+DESCRIPTION:АГАРКОВА ЕЛЕНА ОЛЕГОВНА\, ФЕДОРОВ
+ А ЛАРИСА ВЛАДИМИРОВНА
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240507T163000
+DTEND:20240507T180000
+DTSTAMP:20240507T163000Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Физико-химические процессы получ
+ ения материалов в твердой фазе
+DTSTART:20240507T181500
+DTEND:20240507T194500
+DTSTAMP:20240507T181500Z
+DESCRIPTION:ШЛЯПИН СЕРГЕЙ ДМИТРИЕВИЧ
+LOCATION:Орш. А-220
+END:VEVENT
+END:VCALENDAR

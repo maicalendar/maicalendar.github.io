@@ -1,0 +1,668 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240301T163000
+DTEND:20240301T180000
+DTSTAMP:20240301T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240301T181500
+DTEND:20240301T194500
+DTSTAMP:20240301T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240305T090000
+DTEND:20240305T103000
+DTSTAMP:20240305T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240305T104500
+DTEND:20240305T121500
+DTSTAMP:20240305T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240305T130000
+DTEND:20240305T143000
+DTSTAMP:20240305T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240305T144500
+DTEND:20240305T161500
+DTSTAMP:20240305T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240312T090000
+DTEND:20240312T103000
+DTSTAMP:20240312T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240312T104500
+DTEND:20240312T121500
+DTSTAMP:20240312T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240312T130000
+DTEND:20240312T143000
+DTSTAMP:20240312T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240312T144500
+DTEND:20240312T161500
+DTSTAMP:20240312T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240315T163000
+DTEND:20240315T180000
+DTSTAMP:20240315T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240315T181500
+DTEND:20240315T194500
+DTSTAMP:20240315T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240319T090000
+DTEND:20240319T103000
+DTSTAMP:20240319T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240319T104500
+DTEND:20240319T121500
+DTSTAMP:20240319T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240319T130000
+DTEND:20240319T143000
+DTSTAMP:20240319T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240319T144500
+DTEND:20240319T161500
+DTSTAMP:20240319T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240322T144500
+DTEND:20240322T161500
+DTSTAMP:20240322T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240322T163000
+DTEND:20240322T180000
+DTSTAMP:20240322T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240326T090000
+DTEND:20240326T103000
+DTSTAMP:20240326T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240326T104500
+DTEND:20240326T121500
+DTSTAMP:20240326T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240326T130000
+DTEND:20240326T143000
+DTSTAMP:20240326T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240326T144500
+DTEND:20240326T161500
+DTSTAMP:20240326T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240329T163000
+DTEND:20240329T180000
+DTSTAMP:20240329T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Педагогика и психология высшей ш
+ колы
+DTSTART:20240329T181500
+DTEND:20240329T194500
+DTSTAMP:20240329T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240402T090000
+DTEND:20240402T103000
+DTSTAMP:20240402T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240402T104500
+DTEND:20240402T121500
+DTSTAMP:20240402T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240402T130000
+DTEND:20240402T143000
+DTSTAMP:20240402T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240402T144500
+DTEND:20240402T161500
+DTSTAMP:20240402T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240405T144500
+DTEND:20240405T161500
+DTSTAMP:20240405T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240405T163000
+DTEND:20240405T180000
+DTSTAMP:20240405T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240409T090000
+DTEND:20240409T103000
+DTSTAMP:20240409T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240409T104500
+DTEND:20240409T121500
+DTSTAMP:20240409T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240409T130000
+DTEND:20240409T143000
+DTSTAMP:20240409T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240409T144500
+DTEND:20240409T161500
+DTSTAMP:20240409T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240416T090000
+DTEND:20240416T103000
+DTSTAMP:20240416T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240416T104500
+DTEND:20240416T121500
+DTSTAMP:20240416T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240416T130000
+DTEND:20240416T143000
+DTSTAMP:20240416T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240416T144500
+DTEND:20240416T161500
+DTSTAMP:20240416T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240419T144500
+DTEND:20240419T161500
+DTSTAMP:20240419T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240419T163000
+DTEND:20240419T180000
+DTSTAMP:20240419T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240423T090000
+DTEND:20240423T103000
+DTSTAMP:20240423T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240423T104500
+DTEND:20240423T121500
+DTSTAMP:20240423T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240423T130000
+DTEND:20240423T143000
+DTSTAMP:20240423T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240423T144500
+DTEND:20240423T161500
+DTSTAMP:20240423T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240430T090000
+DTEND:20240430T103000
+DTSTAMP:20240430T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240430T104500
+DTEND:20240430T121500
+DTSTAMP:20240430T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240430T130000
+DTEND:20240430T143000
+DTSTAMP:20240430T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240430T144500
+DTEND:20240430T161500
+DTSTAMP:20240430T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240503T144500
+DTEND:20240503T161500
+DTSTAMP:20240503T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240503T163000
+DTEND:20240503T180000
+DTSTAMP:20240503T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240507T090000
+DTEND:20240507T103000
+DTSTAMP:20240507T090000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240507T104500
+DTEND:20240507T121500
+DTSTAMP:20240507T104500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240507T130000
+DTEND:20240507T143000
+DTSTAMP:20240507T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240507T144500
+DTEND:20240507T161500
+DTSTAMP:20240507T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240514T130000
+DTEND:20240514T143000
+DTSTAMP:20240514T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240514T144500
+DTEND:20240514T161500
+DTSTAMP:20240514T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240517T144500
+DTEND:20240517T161500
+DTSTAMP:20240517T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240517T163000
+DTEND:20240517T180000
+DTSTAMP:20240517T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240521T130000
+DTEND:20240521T143000
+DTSTAMP:20240521T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240521T144500
+DTEND:20240521T161500
+DTSTAMP:20240521T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240524T163000
+DTEND:20240524T180000
+DTSTAMP:20240524T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240524T181500
+DTEND:20240524T194500
+DTSTAMP:20240524T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240528T130000
+DTEND:20240528T143000
+DTSTAMP:20240528T130000Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научная деятельность\, направлен
+ ная на подготовку диссертации к защите
+DTSTART:20240528T144500
+DTEND:20240528T161500
+DTSTAMP:20240528T144500Z
+DESCRIPTION:
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240531T144500
+DTEND:20240531T161500
+DTSTAMP:20240531T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240531T163000
+DTEND:20240531T180000
+DTSTAMP:20240531T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240607T163000
+DTEND:20240607T180000
+DTSTAMP:20240607T163000Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Педагогика и психология высшей ш
+ колы
+DTSTART:20240607T181500
+DTEND:20240607T194500
+DTSTAMP:20240607T181500Z
+DESCRIPTION:Лысаков Николай Дмитриевич
+LOCATION:ГАК-320
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240614T144500
+DTEND:20240614T161500
+DTSTAMP:20240614T144500Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Управление качеством продукции. 
+ Стандартизация. Организация производст
+ ва
+DTSTART:20240614T163000
+DTEND:20240614T180000
+DTSTAMP:20240614T163000Z
+DESCRIPTION:Денискина Антонина Робертовна
+LOCATION:1-12
+END:VEVENT
+END:VCALENDAR

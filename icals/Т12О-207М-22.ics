@@ -1,0 +1,691 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:~//Moscow Aviation Institute//NONSGML Schedule//RU
+BEGIN:VEVENT
+SUMMARY:Экзамен Нанотехнология и наноматер
+ иалы в производстве электронных средств
+DTSTART:20240116T130000
+DTEND:20240116T143000
+DTSTAMP:20240116T130000Z
+DESCRIPTION:СЛЕПЦОВ ВЛАДИМИР ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Экзамен Нанотехнология и наноматер
+ иалы в производстве электронных средств
+DTSTART:20240116T144500
+DTEND:20240116T161500
+DTSTAMP:20240116T144500Z
+DESCRIPTION:СЛЕПЦОВ ВЛАДИМИР ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-308
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240213T163000
+DTEND:20240213T180000
+DTSTAMP:20240213T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240213T181500
+DTEND:20240213T194500
+DTSTAMP:20240213T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240217T090000
+DTEND:20240217T103000
+DTSTAMP:20240217T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240217T104500
+DTEND:20240217T121500
+DTSTAMP:20240217T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240217T130000
+DTEND:20240217T143000
+DTSTAMP:20240217T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240220T163000
+DTEND:20240220T180000
+DTSTAMP:20240220T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240220T181500
+DTEND:20240220T194500
+DTSTAMP:20240220T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240221T163000
+DTEND:20240221T180000
+DTSTAMP:20240221T163000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240221T181500
+DTEND:20240221T194500
+DTSTAMP:20240221T181500Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240221T200000
+DTEND:20240221T213000
+DTSTAMP:20240221T200000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240224T090000
+DTEND:20240224T103000
+DTSTAMP:20240224T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240224T104500
+DTEND:20240224T121500
+DTSTAMP:20240224T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240224T130000
+DTEND:20240224T143000
+DTSTAMP:20240224T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240227T163000
+DTEND:20240227T180000
+DTSTAMP:20240227T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240227T181500
+DTEND:20240227T194500
+DTSTAMP:20240227T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240302T090000
+DTEND:20240302T103000
+DTSTAMP:20240302T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240302T104500
+DTEND:20240302T121500
+DTSTAMP:20240302T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240302T130000
+DTEND:20240302T143000
+DTSTAMP:20240302T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240305T163000
+DTEND:20240305T180000
+DTSTAMP:20240305T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240305T181500
+DTEND:20240305T194500
+DTSTAMP:20240305T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240306T163000
+DTEND:20240306T180000
+DTSTAMP:20240306T163000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240306T181500
+DTEND:20240306T194500
+DTSTAMP:20240306T181500Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240306T200000
+DTEND:20240306T213000
+DTSTAMP:20240306T200000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240309T090000
+DTEND:20240309T103000
+DTSTAMP:20240309T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240309T104500
+DTEND:20240309T121500
+DTSTAMP:20240309T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240309T130000
+DTEND:20240309T143000
+DTSTAMP:20240309T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240312T163000
+DTEND:20240312T180000
+DTSTAMP:20240312T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240312T181500
+DTEND:20240312T194500
+DTSTAMP:20240312T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240316T090000
+DTEND:20240316T103000
+DTSTAMP:20240316T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240316T104500
+DTEND:20240316T121500
+DTSTAMP:20240316T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240316T130000
+DTEND:20240316T143000
+DTSTAMP:20240316T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240319T163000
+DTEND:20240319T180000
+DTSTAMP:20240319T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240319T181500
+DTEND:20240319T194500
+DTSTAMP:20240319T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240320T163000
+DTEND:20240320T180000
+DTSTAMP:20240320T163000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240320T181500
+DTEND:20240320T194500
+DTSTAMP:20240320T181500Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240320T200000
+DTEND:20240320T213000
+DTSTAMP:20240320T200000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240323T090000
+DTEND:20240323T103000
+DTSTAMP:20240323T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240323T104500
+DTEND:20240323T121500
+DTSTAMP:20240323T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240323T130000
+DTEND:20240323T143000
+DTSTAMP:20240323T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240326T163000
+DTEND:20240326T180000
+DTSTAMP:20240326T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240326T181500
+DTEND:20240326T194500
+DTSTAMP:20240326T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240330T090000
+DTEND:20240330T103000
+DTSTAMP:20240330T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ЛК Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240330T104500
+DTEND:20240330T121500
+DTSTAMP:20240330T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240330T130000
+DTEND:20240330T143000
+DTSTAMP:20240330T130000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240402T163000
+DTEND:20240402T180000
+DTSTAMP:20240402T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240402T181500
+DTEND:20240402T194500
+DTSTAMP:20240402T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240403T163000
+DTEND:20240403T180000
+DTSTAMP:20240403T163000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240403T181500
+DTEND:20240403T194500
+DTSTAMP:20240403T181500Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240403T200000
+DTEND:20240403T213000
+DTSTAMP:20240403T200000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240406T090000
+DTEND:20240406T103000
+DTSTAMP:20240406T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240406T104500
+DTEND:20240406T121500
+DTSTAMP:20240406T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240409T163000
+DTEND:20240409T180000
+DTSTAMP:20240409T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240409T181500
+DTEND:20240409T194500
+DTSTAMP:20240409T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240413T090000
+DTEND:20240413T103000
+DTSTAMP:20240413T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240413T104500
+DTEND:20240413T121500
+DTSTAMP:20240413T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240416T163000
+DTEND:20240416T180000
+DTSTAMP:20240416T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240416T181500
+DTEND:20240416T194500
+DTSTAMP:20240416T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240417T163000
+DTEND:20240417T180000
+DTSTAMP:20240417T163000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240417T181500
+DTEND:20240417T194500
+DTSTAMP:20240417T181500Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Научные и организационные пробле
+ мы конструирования и технологии радиоэл
+ ектронных средств
+DTSTART:20240417T200000
+DTEND:20240417T213000
+DTSTAMP:20240417T200000Z
+DESCRIPTION:ВАСИН ВЛАДИМИР АНАТОЛЬЕВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240420T090000
+DTEND:20240420T103000
+DTSTAMP:20240420T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240420T104500
+DTEND:20240420T121500
+DTSTAMP:20240420T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240423T163000
+DTEND:20240423T180000
+DTSTAMP:20240423T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240423T181500
+DTEND:20240423T194500
+DTSTAMP:20240423T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240427T090000
+DTEND:20240427T103000
+DTSTAMP:20240427T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240427T104500
+DTEND:20240427T121500
+DTSTAMP:20240427T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240504T090000
+DTEND:20240504T103000
+DTSTAMP:20240504T090000Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Технологии интеграции изделий ми
+ кро- и наноэлектроники
+DTSTART:20240504T104500
+DTEND:20240504T121500
+DTSTAMP:20240504T104500Z
+DESCRIPTION:КУБРИН ВЛАДИМИР ИВАНОВИЧ
+LOCATION:Берн. 14-414
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240507T163000
+DTEND:20240507T180000
+DTSTAMP:20240507T163000Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:ПЗ Проектирование и технология ради
+ оэлектронных средств специального назн
+ ачения
+DTSTART:20240507T181500
+DTEND:20240507T194500
+DTSTAMP:20240507T181500Z
+DESCRIPTION:САВКИН АЛЕКСЕЙ ВЛАДИМИРОВИЧ
+LOCATION:Берн. 14-307
+END:VEVENT
+END:VCALENDAR
